@@ -1,2 +1,2 @@
 # csharp-Projeler
-yaptıgım proj
+yaptıgım projeler
