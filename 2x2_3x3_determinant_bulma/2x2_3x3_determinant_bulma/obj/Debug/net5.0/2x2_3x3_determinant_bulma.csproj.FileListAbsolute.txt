@@ -1,0 +1,16 @@
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\bin\Debug\net5.0\2x2_3x3_determinant_bulma.exe
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\bin\Debug\net5.0\2x2_3x3_determinant_bulma.deps.json
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\bin\Debug\net5.0\2x2_3x3_determinant_bulma.runtimeconfig.json
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\bin\Debug\net5.0\2x2_3x3_determinant_bulma.runtimeconfig.dev.json
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\bin\Debug\net5.0\2x2_3x3_determinant_bulma.dll
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\bin\Debug\net5.0\ref\2x2_3x3_determinant_bulma.dll
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\bin\Debug\net5.0\2x2_3x3_determinant_bulma.pdb
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\obj\Debug\net5.0\2x2_3x3_determinant_bulma.csproj.AssemblyReference.cache
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\obj\Debug\net5.0\2x2_3x3_determinant_bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\obj\Debug\net5.0\2x2_3x3_determinant_bulma.AssemblyInfoInputs.cache
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\obj\Debug\net5.0\2x2_3x3_determinant_bulma.AssemblyInfo.cs
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\obj\Debug\net5.0\2x2_3x3_determinant_bulma.csproj.CoreCompileInputs.cache
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\obj\Debug\net5.0\2x2_3x3_determinant_bulma.dll
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\obj\Debug\net5.0\ref\2x2_3x3_determinant_bulma.dll
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\obj\Debug\net5.0\2x2_3x3_determinant_bulma.pdb
+C:\Users\Özgür\source\repos\2x2_3x3_determinant_bulma\2x2_3x3_determinant_bulma\obj\Debug\net5.0\2x2_3x3_determinant_bulma.genruntimeconfig.cache

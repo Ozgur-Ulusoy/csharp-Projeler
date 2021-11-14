@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "2x2_3x3_determinant_bulma/1.0.0": {
+        "runtime": {
+          "2x2_3x3_determinant_bulma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2x2_3x3_determinant_bulma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
